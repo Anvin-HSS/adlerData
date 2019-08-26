@@ -1,16 +1,16 @@
 [
   {
-    "Emp_BloodGroup_V": "Adl company",
-    "Dpm_Desc_V": "Post 1",
-    "Designation": "Designat
-    "Emp_DOB_D": 5454 1",
-    "Emp_Gender_V": "hgvhj",
-    "Grm_Desc_V": "sdff",
-    "Emp_DOJ_D": "Adl dcf",
-    "Lph_Desc_V": "Post 1",
-    "Cmp_Name_V": "Adl company",
-    "Sponsor": "Post 1",
-    "Emp_EmployeeReportsDesc_V": "Adl company"
+    "Emp_BloodGroup_V": "A+ve",
+    "Dpm_Desc_V": "Accounts",
+    "Designation": "Finance Manager
+    "Emp_DOB_D": "01-Jan-2000",
+    "Emp_Gender_V": "Male",
+    "Grm_Desc_V": "Grade A",
+    "Emp_DOJ_D": "10-Jan-2010",
+    "Lph_Desc_V": "Policy Annual 21 Days",
+    "Cmp_Name_V": "Anvin",
+    "Sponsor": "Anvin",
+    "Emp_EmployeeReportsDesc_V": "Manoj"
   
   },
 ]
